@@ -1,1 +1,5 @@
 One
+index = []
+for i in range(11):
+  index.append(i)
+print(sum(index))
